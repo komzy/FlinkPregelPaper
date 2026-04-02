@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="YM8-rQ5R-uEKWiFPZetZ">
-    <mxGraphModel dx="653" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="726" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="U11yq_XkfgZabS09X4MV-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Messages&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="54" x="564" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="UinhpdAop4ne_af4zR4L-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Window&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="54" x="303" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

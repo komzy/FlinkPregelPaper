@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="XnN3iAloCWJp357C3lsq-13" connectable="0" parent="XnN3iAloCWJp357C3lsq-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="External Messaging&lt;div&gt;System&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0252" y="1" as="geometry">
-            <mxPoint x="2" as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnN3iAloCWJp357C3lsq-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">

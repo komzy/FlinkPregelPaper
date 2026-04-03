@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" pages="5">
   <diagram name="Execution Models" id="qcq28ZN_M1OYR8Ga4SrT">
-    <mxGraphModel dx="933" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="653" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ThmSLM0K2VGOzb2RPaAg-17" edge="1" parent="1" source="ThmSLM0K2VGOzb2RPaAg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ThmSLM0K2VGOzb2RPaAg-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThmSLM0K2VGOzb2RPaAg-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Graph to Node Coversion" vertex="1">
+        <mxCell id="ThmSLM0K2VGOzb2RPaAg-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Graph to Vertex Coversion" vertex="1">
           <mxGeometry height="80" width="80" x="237" y="97" as="geometry" />
         </mxCell>
         <mxCell id="ThmSLM0K2VGOzb2RPaAg-18" edge="1" parent="1" source="ThmSLM0K2VGOzb2RPaAg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
@@ -18,7 +18,7 @@
         <mxCell id="ThmSLM0K2VGOzb2RPaAg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Execution Models:&lt;div&gt;SUI/BSP/AMP&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="407" y="107" as="geometry" />
         </mxCell>
-        <mxCell id="ThmSLM0K2VGOzb2RPaAg-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Node Stream" vertex="1">
+        <mxCell id="ThmSLM0K2VGOzb2RPaAg-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vertex Stream" vertex="1">
           <mxGeometry height="30" width="60" x="327" y="106" as="geometry" />
         </mxCell>
         <mxCell id="ThmSLM0K2VGOzb2RPaAg-10" edge="1" parent="1" source="ThmSLM0K2VGOzb2RPaAg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ThmSLM0K2VGOzb2RPaAg-2" value="">
@@ -30,7 +30,7 @@
         <mxCell id="ThmSLM0K2VGOzb2RPaAg-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Window&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="54" x="246" y="83" as="geometry" />
         </mxCell>
-        <mxCell id="ThmSLM0K2VGOzb2RPaAg-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Results&lt;div&gt;(Node Stream)&lt;/div&gt;" vertex="1">
+        <mxCell id="ThmSLM0K2VGOzb2RPaAg-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="565" y="119" as="geometry" />
         </mxCell>
       </root>

@@ -249,10 +249,10 @@
             <mxPoint x="440" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FLtukro37d-4eTBeYHbu-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Results&lt;div&gt;(Node Stream)&lt;/div&gt;" vertex="1">
+        <mxCell id="FLtukro37d-4eTBeYHbu-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="431" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="FLtukro37d-4eTBeYHbu-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Node Stream" vertex="1">
+        <mxCell id="FLtukro37d-4eTBeYHbu-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Vertex&lt;div&gt;Stream&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="175" y="32" as="geometry" />
         </mxCell>
         <mxCell id="FLtukro37d-4eTBeYHbu-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SUPER STEP" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="6">
+<mxfile host="app.diagrams.net" pages="7">
   <diagram name="Execution Models" id="qcq28ZN_M1OYR8Ga4SrT">
     <mxGraphModel dx="653" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="98gISJKpNvr9v57JlZ5a" name="windowGraphs">
-    <mxGraphModel dx="641" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,6 +495,62 @@
         </mxCell>
         <mxCell id="vL_irkL5YiLWH3OUkB-s-20" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;W3&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="80" x="318.65" y="337" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pAlO2UBgBqSuWjkq1k_5" name="naiveApproach">
+    <mxGraphModel dx="2539" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Input&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Edge Stream&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="-721" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Window Opeator" vertex="1">
+          <mxGeometry height="40" width="100" x="-611" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Graph Query Processing" vertex="1">
+          <mxGeometry height="40" width="100" x="-420" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-4" edge="1" parent="1" source="4lM3-LABpl_CVPjUPdF9-3" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="4lM3-LABpl_CVPjUPdF9-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="250" />
+              <mxPoint x="-300" y="240" />
+              <mxPoint x="-300" y="220" />
+              <mxPoint x="-370" y="220" />
+            </Array>
+            <mxPoint x="-320" y="260" as="sourcePoint" />
+            <mxPoint x="-290" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-5" edge="1" parent="1" source="4lM3-LABpl_CVPjUPdF9-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-450" y="250" as="sourcePoint" />
+            <mxPoint x="-280" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-6" edge="1" parent="1" source="4lM3-LABpl_CVPjUPdF9-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4lM3-LABpl_CVPjUPdF9-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-450" y="250" as="sourcePoint" />
+            <mxPoint x="-400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-7" edge="1" parent="1" source="4lM3-LABpl_CVPjUPdF9-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4lM3-LABpl_CVPjUPdF9-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-442" y="290" as="sourcePoint" />
+            <mxPoint x="-392" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Query&amp;nbsp;&lt;div&gt;Output&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="-313" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Feedback loop for iterative processing" vertex="1">
+          <mxGeometry height="40" width="110" x="-390" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="4lM3-LABpl_CVPjUPdF9-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windowed Vertex Stream" vertex="1">
+          <mxGeometry height="40" width="90" x="-511" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

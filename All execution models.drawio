@@ -434,7 +434,10 @@
           <mxGeometry height="60" width="150" x="535" y="230" as="geometry" />
         </mxCell>
         <mxCell id="X_TEb0gVjpfE_KF3MtXQ-31" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;rotation=90;" value="" vertex="1">
-          <mxGeometry height="430" width="30" x="300" y="110" as="geometry" />
+          <mxGeometry height="440" width="30" x="295" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="X_TEb0gVjpfE_KF3MtXQ-32" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;rotation=90;" value="" vertex="1">
+          <mxGeometry height="440" width="30" x="595" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

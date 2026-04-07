@@ -694,7 +694,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="compositekeys" id="ka2OhfUE5aVk7wKG6W8v">
-    <mxGraphModel dx="1743" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hf5p1Nt7Oh8f3LaCb8_O-0" />
         <mxCell id="hf5p1Nt7Oh8f3LaCb8_O-1" parent="hf5p1Nt7Oh8f3LaCb8_O-0" />
@@ -746,8 +746,8 @@
         <mxCell id="hf5p1Nt7Oh8f3LaCb8_O-10" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Feedback loop for iterative processing" vertex="1">
           <mxGeometry height="40" width="110" x="-307" y="184" as="geometry" />
         </mxCell>
-        <mxCell id="hf5p1Nt7Oh8f3LaCb8_O-11" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windowed&amp;nbsp;&lt;div&gt;Vertex Stream&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="101" x="-434" y="240" as="geometry" />
+        <mxCell id="hf5p1Nt7Oh8f3LaCb8_O-11" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Window ID = 2 Windowed&amp;nbsp;&lt;div&gt;Vertex Stream&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="127" x="-449.5" y="233" as="geometry" />
         </mxCell>
         <mxCell id="M5s6hIKSYHtTLaShIrUF-0" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Graph Query Processing" vertex="1">
           <mxGeometry height="40" width="100" x="-337" y="366" as="geometry" />
@@ -797,11 +797,11 @@
         <mxCell id="M5s6hIKSYHtTLaShIrUF-11" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Feedback loop for iterative processing" vertex="1">
           <mxGeometry height="40" width="110" x="-307" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="M5s6hIKSYHtTLaShIrUF-12" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windowed Vertex Stream" vertex="1">
-          <mxGeometry height="40" width="92" x="-430" y="86" as="geometry" />
+        <mxCell id="M5s6hIKSYHtTLaShIrUF-12" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Window ID = 1&lt;/div&gt;Windowed Vertex Stream" vertex="1">
+          <mxGeometry height="40" width="92" x="-429" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="M5s6hIKSYHtTLaShIrUF-5" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windowed Vertex Stream" vertex="1">
-          <mxGeometry height="40" width="90" x="-430" y="382" as="geometry" />
+        <mxCell id="M5s6hIKSYHtTLaShIrUF-5" parent="hf5p1Nt7Oh8f3LaCb8_O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Window ID = 3 Windowed Vertex Stream" vertex="1">
+          <mxGeometry height="40" width="90" x="-440" y="379" as="geometry" />
         </mxCell>
         <mxCell id="M5s6hIKSYHtTLaShIrUF-21" edge="1" parent="hf5p1Nt7Oh8f3LaCb8_O-1" source="hf5p1Nt7Oh8f3LaCb8_O-3" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="M5s6hIKSYHtTLaShIrUF-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">

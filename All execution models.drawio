@@ -118,10 +118,10 @@
             <mxPoint x="500.08000000000004" y="123.91999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubyh2elX9agboT-t0tmy-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="ubyh2elX9agboT-t0tmy-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.021;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" target="ubyh2elX9agboT-t0tmy-34" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="482" y="149" as="sourcePoint" />
-            <mxPoint x="501" y="149" as="targetPoint" />
+            <mxPoint x="481" y="149" as="sourcePoint" />
+            <mxPoint x="500" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CiYhMcnZPrnqFpwKM7YM" name="BSP">
-    <mxGraphModel dx="149" dy="107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="313" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="6WmCNPi7mfrP-FRZZROP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="579" y="81" as="geometry" />
         </mxCell>
-        <mxCell id="6WmCNPi7mfrP-FRZZROP-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Vertex Stream" vertex="1">
+        <mxCell id="6WmCNPi7mfrP-FRZZROP-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Vertex Stream" vertex="1">
           <mxGeometry height="30" width="60" x="125" y="89" as="geometry" />
         </mxCell>
         <mxCell id="6WmCNPi7mfrP-FRZZROP-20" edge="1" parent="1" source="6WmCNPi7mfrP-FRZZROP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;" target="6WmCNPi7mfrP-FRZZROP-13" value="">
@@ -188,7 +188,7 @@
           <mxGeometry height="10" width="54" x="362" y="108" as="geometry" />
         </mxCell>
         <mxCell id="6WmCNPi7mfrP-FRZZROP-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="&lt;font&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;vertices + control&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;signals&lt;/span&gt;" vertex="1">
-          <mxGeometry height="34" width="158" x="262" y="74" as="geometry" />
+          <mxGeometry height="34" width="158" x="260" y="71" as="geometry" />
         </mxCell>
         <mxCell id="RC52ugi0TYgseBNfVgUK-5" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="24.5" width="23.22" x="335.39" y="108" as="geometry" />

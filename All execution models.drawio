@@ -37,7 +37,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0g8H4RL2yoTQ_5IX3kFF" name="SUI">
-    <mxGraphModel dx="768" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="661" y="120" as="geometry" />
+          <mxGeometry height="40" width="91" x="659" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -166,7 +166,7 @@
             <mxPoint x="589" y="99.56701030927834" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WmCNPi7mfrP-FRZZROP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
+        <mxCell id="6WmCNPi7mfrP-FRZZROP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="579" y="81" as="geometry" />
         </mxCell>
         <mxCell id="6WmCNPi7mfrP-FRZZROP-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Vertex Stream" vertex="1">

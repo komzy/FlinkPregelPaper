@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUI Graph Algorithm&lt;div&gt;Superstep N&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="511" y="110" as="geometry" />
+          <mxGeometry height="60" width="120" x="502" y="109" as="geometry" />
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-35" edge="1" parent="1" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;shape=filledEdge;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -93,11 +93,11 @@
         <mxCell id="ubyh2elX9agboT-t0tmy-36" edge="1" parent="1" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;shape=filledEdge;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="507" y="166" />
-              <mxPoint x="457" y="116" />
+              <mxPoint x="498" y="165" />
+              <mxPoint x="448" y="115" />
             </Array>
-            <mxPoint x="477" y="181" as="sourcePoint" />
-            <mxPoint x="487" y="101" as="targetPoint" />
+            <mxPoint x="468" y="180" as="sourcePoint" />
+            <mxPoint x="478" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-37" edge="1" parent="1" source="ubyh2elX9agboT-t0tmy-30" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" value="">
@@ -114,18 +114,18 @@
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.016;entryY=0.232;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="471" y="125" as="sourcePoint" />
-            <mxPoint x="509.08000000000004" y="124.91999999999996" as="targetPoint" />
+            <mxPoint x="462" y="124" as="sourcePoint" />
+            <mxPoint x="500.08000000000004" y="123.91999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="491" y="150" as="sourcePoint" />
-            <mxPoint x="510" y="150" as="targetPoint" />
+            <mxPoint x="482" y="149" as="sourcePoint" />
+            <mxPoint x="501" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ubyh2elX9agboT-t0tmy-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Results&lt;div&gt;(Vertex Stream)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="91" x="661" y="120" as="geometry" />
+          <mxGeometry height="40" width="91" x="652" y="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
